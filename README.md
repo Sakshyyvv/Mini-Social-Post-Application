@@ -75,6 +75,12 @@ Frontend:
 
 npm run dev
 
+## Screenshots 
+1. login page
+   <img width="1111" height="2084" alt="Screenshot_5-6-2026_205144_localhost" src="https://github.com/user-attachments/assets/8353119d-305c-4751-88d7-8ad95665fc74" />
+2. Home page
+   <img width="1022" height="852" alt="Screenshot_5-6-2026_20214_localhost" src="https://github.com/user-attachments/assets/cbe1f4c0-9194-4067-8a43-2e328e1ec65a" />
+
 ## Usage
 
 1. Sign up/Login

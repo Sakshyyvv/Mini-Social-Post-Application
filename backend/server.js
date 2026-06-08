@@ -12,7 +12,7 @@ const PORT = process.env.PORT || 5000;
 
 connectDB();
 
-app.use(cors({ origin: ['http://localhost:5173', 'https://mini-social-post-application-sable.vercel.app' ], credentials: true }));
+app.use(cors({ origin: ['http://localhost:5173', 'https://mini-social-post-appl-git-ee3769-sakshiverma2523-2987s-projects.vercel.app' ], credentials: true }));
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 

@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-  baseURL: 'https://mini-social-post-application-niry.onrender.com',
+  baseURL: 'https://mini-social-post-application-niry.onrender.com/api',
 });
 
 api.interceptors.request.use((config) => {
